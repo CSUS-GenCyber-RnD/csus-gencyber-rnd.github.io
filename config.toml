@@ -1,4 +1,4 @@
-baseURL = 'https:/CSUS-GenCyber-RnD.github.io/'
+baseURL = 'https://csus-gencyber-rnd.github.io/'
 languageCode = 'en-us'
 title = 'Sac State GenCyber Research and Development'
 theme = 'terminal'
