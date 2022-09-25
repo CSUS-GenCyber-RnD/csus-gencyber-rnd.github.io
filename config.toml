@@ -1,0 +1,5 @@
+baseURL = 'https://caus-gencyber-rnd.github.io/'
+
+DefaultContentLanguage = "en"
+title = "CSUS GenCyber R&D"
+theme = "hugo-theme-techdoc"
